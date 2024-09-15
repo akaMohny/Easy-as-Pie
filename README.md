@@ -13,7 +13,7 @@ Knowledge of API calls and data fetching.
 ### Getting Started
 Clone the repo and install dependencies.
 ```
-git clone https://your_github_repo_url.git
+git clone https://github.com/akaMohny/easy-as-pie.git
 ```
 
 ### Install dependencies
