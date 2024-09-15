@@ -1,8 +1,40 @@
-# React + Vite
+## Simple Food App (Foodish API), Easy as Pie!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a beautiful and user-friendly app that retrieves recipes from the Foodish API (https://github.com/surhud004/Foodish).
 
-Currently, two official plugins are available:
+### Features
+Search for recipes by keyword.
+View detailed recipe information, including ingredients, instructions, and images.
+Enjoy a clean and visually appealing design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
+Knowledge of API calls and data fetching.
+
+### Getting Started
+Clone the repo and install dependencies.
+```
+git clone https://your_github_repo_url.git
+```
+
+### Install dependencies
+
+```
+npm i
+```
+
+### Run the application
+
+```
+npm run dev
+```
+
+### API Key
+This project uses the Foodish API. Foodish API is a free API provider and you do not need any specific authentications or etc. You can find instructions for obtaining an API key on the Foodish API: https://github.com/surhud004/Foodish
+
+> You don't need to optain your own API key, it's optional.
+
+### Contributing
+We welcome contributions to this project! If you have any ideas or bug fixes, feel free to create a pull request.
+
+### License
+This project is licensed under the MIT License.
