@@ -58,7 +58,7 @@ const App = () => {
 
   return (
     <div className='p-4'>
-      <div className='w-full flex justify-center items-center gap-x-2 overflow-x-auto'>
+      <div className='w-full flex justify-center items-center gap-x-2'>
         {categories.map((cat) => (
           <button
             key={cat}
